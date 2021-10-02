@@ -15,4 +15,9 @@ public class DemoTeamOne {
 		System.out.println("java is fun from fernando");
 	}
 
+	
+	public void addNum(int a, int b) {
+		System.out.println(a+b);
+	}
+
 }
