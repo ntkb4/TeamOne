@@ -7,5 +7,7 @@ public class DemoTeamOne {
 		System.out.println(a + b + c);
 		
 		System.out.println("hello");
+		
+		System.out.println("Hello from Shams");
 	}
 }
